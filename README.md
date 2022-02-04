@@ -41,7 +41,7 @@ A simple Telegram userbot based on Telethon .
 > Those two vars are not Mandatory! You can leave them blank too but I would suggest to keep them. 
   
 <h4>Click the button below to deploy Catuserbot on Heroku!</h4> 
-<p><a href="https://heroku.com/deploy?template=https://github.com/prono69/lazycat"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
+<p><a href="https://heroku.com/deploy?template=https://github.com/DarkSoulxUltra/lazycat"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>  
   
 </details> 
 
@@ -65,7 +65,7 @@ A simple Telegram userbot based on Telethon .
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/sandy1709/catuserbot/blob/master/LICENSE) See `LICENSE` for more information.
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/DarkSoulxUltra/lazycat/blob/master/LICENSE) See `LICENSE` for more information.
 
 ## Disclaimer
 Read these lines! 
